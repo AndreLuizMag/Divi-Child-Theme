@@ -1,11 +1,12 @@
 # Divi Child Theme
 
-Divi Child Theme from wordpress
+Divi Child Theme from wordpress.
+*support Divi Builder*
 
 
 ## Getting Started
 
-Download this repository and install theme in wordpress
+Download this repository and install theme in wordpress.
 
 
 ## Authors
