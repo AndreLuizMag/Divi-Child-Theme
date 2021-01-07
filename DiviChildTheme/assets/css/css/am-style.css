@@ -1,0 +1,18 @@
+/* Default import */
+:root {
+  --bgp: #FFFFFF;
+  --bgs: #F8F8F8;
+  --fontp: #37352f;
+  --fonts: #747370;
+  --primary: #2ef0cc;
+  --primary-s: #f2fff9;
+  --secondary: #054175;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+}
+
+/* Custom import */
+/*# sourceMappingURL=am-style.css.map */

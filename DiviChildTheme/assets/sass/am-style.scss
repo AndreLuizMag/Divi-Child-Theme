@@ -1,0 +1,9 @@
+/* Default import */
+@import 'components/base';
+@import 'components/color';
+@import 'components/icon';
+
+/* Custom import */
+@import 'components/am-header';
+@import 'components/am-footer';
+@import 'components/am-content';
